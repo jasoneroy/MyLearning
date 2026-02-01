@@ -14,7 +14,7 @@ h1 {
     display:flex;
     align-items: center;
     justify-content:center;
-    color:aqua;
+    color:rgb(206, 75, 23);
 }
 
 button {display: flex;
