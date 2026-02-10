@@ -21,6 +21,13 @@ main {
   align-items: center;
   justify-content: center;
 }
+main #ball {
+  height: 2rem;
+  width: 2.5rem;
+  position: fixed;
+  transform: translate(2.5%, 2.5%);
+  opacity: 0;
+}
 main div {
   width: 25rem;
   background-color: aqua;
